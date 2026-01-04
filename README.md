@@ -27,16 +27,16 @@ This index accounts for the **+1 Shift** in IDs and lists all available sizes.
 | **19** | ![19](Icons/19_Network_Printer/148_size48.png) | 8 Files | 16px, 32px, 48px | Network Printer |
 | **20** | ![20](Icons/20_Paint_Image/154_size48.png) | 9 Files | 16px, 32px, 48px | Paint Image |
 | **21** | ![21](Icons/21_History/163_size48.png) | 11 Files | 16px, 24px, 32px, 48px | History / Time |
-| **22** | ![22](Icons/22_Help_Book/174_size48.png) | 12 Files | 16px, 24px, 32px, 48px | Recycle Bin (Mixed) |
-| **23** | ![23](Icons/23_Search/186_size48.png) | 12 Files | 16px, 24px, 32px, 48px | Help Book |
-| **24** | ![24](Icons/24_Information/198_size48.png) | 12 Files | 16px, 24px, 32px, 48px | Search (Magnifying Glass) |
-| **25** | ![25](Icons/25_Run/210_size48.png) | 11 Files | 16px, 24px, 32px, 48px | Information (Blue i) |
-| **26** | ![26](Icons/26_Sceen_Saver/224_size48.png) | 6 Files | 16px, 32px, 48px | Shutdown Button |
+| **22** | ![22](Icons/22_Help_Book/174_size48.png) | 12 Files | 16px, 24px, 32px, 48px | Help Book |
+| **23** | ![23](Icons/23_Search/186_size48.png) | 12 Files | 16px, 24px, 32px, 48px | Search (Magnifying Glass) |
+| **24** | ![24](Icons/24_Information/198_size48.png) | 12 Files | 16px, 24px, 32px, 48px | Information (Blue i) |
+| **25** | ![25](Icons/25_Run/210_size48.png) | 11 Files | 16px, 24px, 32px, 48px | Run |
+| **26** | ![26](Icons/26_Sceen_Saver/224_size48.png) | 6 Files | 16px, 32px, 48px | Screen Saver |
 | **27** | ![27](Icons/27_Sharing_Hand/229_size48.png) | 6 Files | 16px, 32px, 48px | Sharing Hand |
-| **28** | ![28](Icons/28_Shutdown/233_size48.png) | 12 Files | 16px, 24px, 32px, 48px | Sharing Hand (Variant) |
+| **28** | ![28](Icons/28_Shutdown/233_size48.png) | 12 Files | 16px, 24px, 32px, 48px | Shutdown Button |
 | **29** | ![29](Icons/29_Sharing_Hand/245_size48.png) | 9 Files | 16px, 32px, 48px | User Accounts |
 | **30** | ![30](Icons/30_Shortcut_Arrow/254_size32.png) | 2 Files | 16px, 32px | Shortcut Arrow |
-| **31** | ![31](Icons/31_Overlay_Icon/256_size32.png) | 2 Files | 16px, 32px | Icon 30 |
+| **31** | ![31](Icons/31_Overlay_Icon/256_size32.png) | 2 Files | 16px, 32px | Overlay Icon |
 | **32** | ![32](Icons/32_Empty_Recycle_Bin/258_size48.png) | 9 Files | 16px, 32px, 48px | Recycle Bin (Empty) |
 | **33** | ![33](Icons/33_Full_Recycle_Bin/267_size48.png) | 9 Files | 16px, 32px, 48px | Recycle Bin (Full) |
 | **34** | ![34](Icons/34_Dial-up/488_size48.png) | 6 Files | 16px, 32px, 48px | Dial-up Networking |
